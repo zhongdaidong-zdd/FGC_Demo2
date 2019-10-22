@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <IntegrateWithOtherApplication>
+    <Password>RNf2Yc#gMQZm</Password>
+  </IntegrateWithOtherApplication>
+  <UserServicePort>62667</UserServicePort>
+  <WebSitePort>42741</WebSitePort>
+</ApplicationSettings>

@@ -137,6 +137,23 @@
   },
   {
     "ModuleName": "Pages\\文件夹1",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "XA-DD3-DAVIDZHO\\DavidZhong",
+      "Email": "David.zhong@grapecity.com"
+    },
+    "LockDateTime": "2019-11-06T15:07:22.8074294+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": []
+  },
+  {
+    "ModuleName": "Pages\\文件夹12",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "XA-DD3-DAVIDZHO\\DavidZhong",
+      "Email": "David.zhong@grapecity.com"
+    },
+    "LockDateTime": "2019-11-06T15:07:22.8074294+08:00",
     "ModuleType": 7
   }
 ]

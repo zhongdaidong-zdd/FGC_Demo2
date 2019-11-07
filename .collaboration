@@ -105,7 +105,14 @@
   },
   {
     "ModuleName": "3662ae4e-b6b1-4ac1-b3e9-bf214d7e34ab",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "邓奥林",
+      "Email": "orrin@1.c"
+    },
+    "LockDateTime": "2019-11-07T16:39:50.3889621+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "c0399537-e72c-407d-82a2-ce31c68456a2",

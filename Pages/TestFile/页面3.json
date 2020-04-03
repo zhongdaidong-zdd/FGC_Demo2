@@ -23,61 +23,19 @@
             "Value": "项目3",
             "DisplayValue": "项目3"
           }
-        ],
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
         ]
       }
     },
     "7,12": {
       "CellType": {
         "$type": "Forguncy.HyperlinkCellType, Forguncy",
-        "ClickMode": 1,
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "ClickMode": 1
       }
     },
     "13,12": {
       "CellType": {
         "$type": "Forguncy.DateCellType, Forguncy",
-        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
       }
     }
   },
@@ -110,7 +68,9 @@
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
       "VisitMode": 2
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

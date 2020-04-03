@@ -59,6 +59,8 @@
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "MobilePageName": "FGC_维护中_手机版",
     "Title": "维护中",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
     "IsBuiltInPage": true
   },
   "PrintInfo": {

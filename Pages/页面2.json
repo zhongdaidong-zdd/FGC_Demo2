@@ -9,21 +9,7 @@
     "10,11": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, Forguncy",
-        "TemplateKey": "_RS_Normal_Style2",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "TemplateKey": "_RS_Normal_Style2"
       }
     }
   },
@@ -44,7 +30,9 @@
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
       "VisitMode": 2
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

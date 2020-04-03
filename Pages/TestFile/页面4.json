@@ -11,21 +11,7 @@
   "AttachInfos": {
     "7,11": {
       "CellType": {
-        "$type": "Forguncy.ImageCellType, Forguncy",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "$type": "Forguncy.ImageCellType, Forguncy"
       }
     }
   },
@@ -56,7 +42,9 @@
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
       "VisitMode": 2
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

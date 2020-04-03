@@ -23,21 +23,7 @@
         ],
         "Text": "登录",
         "AutoExecute": true,
-        "TemplateKey": "_RS_Normal_Style2",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "TemplateKey": "_RS_Normal_Style2"
       }
     }
   },
@@ -95,6 +81,8 @@
     "MasterPageName": "FGC_母版页",
     "MobilePageName": "FGC_重置密码发送邮件成功_手机版",
     "Title": "重置密码邮件发送成功",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
     "IsBuiltInPage": true
   },
   "PrintInfo": {

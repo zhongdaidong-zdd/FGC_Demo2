@@ -23,20 +23,6 @@
       "CellType": {
         "$type": "Forguncy.HyperlinkCellType, Forguncy",
         "Text": "登出，并使用其他账号重新登录",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "401Login"
       }
     }
@@ -132,6 +118,8 @@
     "MasterPageName": "FGC_母版页",
     "MobilePageName": "FGC_401页面_手机版",
     "Title": "401页面",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
     "IsBuiltInPage": true
   },
   "PrintInfo": {

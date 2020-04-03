@@ -100,6 +100,10 @@
     "ModuleType": 1
   },
   {
+    "ModuleName": "页面5",
+    "ModuleType": 1
+  },
+  {
     "ModuleName": "FGC_母版页",
     "ModuleType": 3
   },
@@ -136,11 +140,7 @@
     "ModuleType": 14
   },
   {
-    "ModuleName": "Pages\\文件夹1",
-    "ModuleType": 7
-  },
-  {
-    "ModuleName": "页面5",
-    "ModuleType": 1
+    "ModuleName": "f136f31a-5285-4164-b8e6-6a822fdf27bd",
+    "ModuleType": 15
   }
 ]

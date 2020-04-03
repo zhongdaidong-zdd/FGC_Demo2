@@ -30,30 +30,10 @@
           }
         ],
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "ForgotPassword_UserOrEmail"
       },
       "DataValidationInfo": {
-        "IgnoreBlank": false,
-        "FirstParamValue": "",
-        "SecondParamValue": "",
-        "InputMessageTitle": "",
-        "InputMessage": "",
-        "ErrorMessage": "",
-        "SelectedDefaultRegularExpression": ""
+        "IgnoreBlank": false
       }
     },
     "17,25": {
@@ -62,20 +42,6 @@
         "Text": "发送",
         "AutoExecute": true,
         "TemplateKey": "_RS_Normal_Style2",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "ForgotPassword_Send"
       }
     },
@@ -90,21 +56,7 @@
           }
         ],
         "Text": "取消发送",
-        "TemplateKey": "_RS_Normal_Style2",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "TemplateKey": "_RS_Normal_Style2"
       }
     }
   },
@@ -194,6 +146,8 @@
     "MasterPageName": "FGC_母版页",
     "MobilePageName": "FGC_忘记密码_手机版",
     "Title": "忘记密码",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
     "IsBuiltInPage": true
   },
   "PrintInfo": {

@@ -21,20 +21,6 @@
       "CellType": {
         "$type": "Forguncy.ImageCellType, Forguncy",
         "TemplateKey": "_RS_Normal1",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ImagePath": "fgc_logo_dark.png"
       }
     },
@@ -54,30 +40,10 @@
         "IconSize": 18.0,
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "WaterMark": "账号",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "LogIn_Username"
       },
       "DataValidationInfo": {
-        "IgnoreBlank": false,
-        "FirstParamValue": "",
-        "SecondParamValue": "",
-        "InputMessageTitle": "",
-        "InputMessage": "",
-        "ErrorMessage": "",
-        "SelectedDefaultRegularExpression": ""
+        "IgnoreBlank": false
       }
     },
     "13,3": {
@@ -97,30 +63,10 @@
         "IconSize": 18.0,
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "WaterMark": "密码",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "LogIn_Password"
       },
       "DataValidationInfo": {
-        "IgnoreBlank": false,
-        "FirstParamValue": "",
-        "SecondParamValue": "",
-        "InputMessageTitle": "",
-        "InputMessage": "",
-        "ErrorMessage": "",
-        "SelectedDefaultRegularExpression": ""
+        "IgnoreBlank": false
       }
     },
     "16,3": {
@@ -128,20 +74,6 @@
         "$type": "Forguncy.CheckBoxCellType, Forguncy",
         "Caption": "保持登录状态",
         "Style": 1,
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "LogIn_RememberMe"
       }
     },
@@ -151,20 +83,6 @@
         "Text": "登录",
         "AutoExecute": true,
         "TemplateKey": "_RS_Normal_Style2",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "LogIn_Button"
       }
     },
@@ -178,21 +96,7 @@
             "PassValues": []
           }
         ],
-        "Text": "忘记密码",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "Text": "忘记密码"
       }
     }
   },
@@ -298,6 +202,8 @@
     "AuthorizeInfo": {
       "VisitMode": 2
     },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
     "IsBuiltInPage": true,
     "IsMobilePage": true
   },

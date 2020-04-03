@@ -34,30 +34,10 @@
           }
         ],
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "ResetPassword_NewPassword"
       },
       "DataValidationInfo": {
-        "IgnoreBlank": false,
-        "FirstParamValue": "",
-        "SecondParamValue": "",
-        "InputMessageTitle": "",
-        "InputMessage": "",
-        "ErrorMessage": "",
-        "SelectedDefaultRegularExpression": ""
+        "IgnoreBlank": false
       }
     },
     "16,22": {
@@ -70,30 +50,10 @@
           }
         ],
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "ResetPassword_ConfirmPassword"
       },
       "DataValidationInfo": {
-        "IgnoreBlank": false,
-        "FirstParamValue": "",
-        "SecondParamValue": "",
-        "InputMessageTitle": "",
-        "InputMessage": "",
-        "ErrorMessage": "",
-        "SelectedDefaultRegularExpression": ""
+        "IgnoreBlank": false
       }
     },
     "21,25": {
@@ -102,20 +62,6 @@
         "Text": "重置",
         "AutoExecute": true,
         "TemplateKey": "_RS_Normal_Style2",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ],
         "ForguncyAttribute": "ResetPassword_Button"
       }
     },
@@ -129,21 +75,7 @@
             "PassValues": []
           }
         ],
-        "Text": "取消重置",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "Text": "取消重置"
       }
     }
   },
@@ -242,6 +174,8 @@
     "MasterPageName": "FGC_母版页",
     "MobilePageName": "FGC_重置密码_手机版",
     "Title": "重置密码",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
     "IsBuiltInPage": true
   },
   "PrintInfo": {
